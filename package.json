@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "This project contains the introduction to Node.js and Express.js",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenkim115/intro_nodejs_express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allenkim115/intro_nodejs_express/issues"
+  },
+  "homepage": "https://github.com/allenkim115/intro_nodejs_express#readme"
 }
